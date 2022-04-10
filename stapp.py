@@ -39,7 +39,7 @@ with col1:
           and then adjust the left slider to the first quarter of interest and the right one to last quarter 
           that you want data for.
 
-          The first quarter that there is data for is Q! 2007 and the final one is Q4 2021.
+          The first quarter that there is data for is Q1 2007 and the final one is Q4 2021.
 
           When you have selected the countries and the time period should select a data table.
 
